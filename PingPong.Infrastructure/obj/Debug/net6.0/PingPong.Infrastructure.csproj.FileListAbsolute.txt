@@ -1,0 +1,12 @@
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\bin\Debug\net6.0\PingPong.Infrastructure.deps.json
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\bin\Debug\net6.0\PingPong.Infrastructure.dll
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\bin\Debug\net6.0\PingPong.Infrastructure.pdb
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\PingPong.Infrastructure.csproj.AssemblyReference.cache
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\PingPong.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\PingPong.Infrastructure.AssemblyInfoInputs.cache
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\PingPong.Infrastructure.AssemblyInfo.cs
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\PingPong.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\PingPong.Infrastructure.dll
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\refint\PingPong.Infrastructure.dll
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\PingPong.Infrastructure.pdb
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Infrastructure\obj\Debug\net6.0\ref\PingPong.Infrastructure.dll

@@ -1,0 +1,12 @@
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\bin\Debug\net6.0\PingPong.Domain.deps.json
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\bin\Debug\net6.0\PingPong.Domain.dll
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\bin\Debug\net6.0\PingPong.Domain.pdb
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.csproj.AssemblyReference.cache
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.AssemblyInfoInputs.cache
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.AssemblyInfo.cs
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.csproj.CoreCompileInputs.cache
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.dll
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\refint\PingPong.Domain.dll
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.pdb
+D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\ref\PingPong.Domain.dll
