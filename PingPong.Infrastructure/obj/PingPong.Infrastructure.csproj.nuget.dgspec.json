@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj": {}
+    "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj": {
+    "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj",
         "projectName": "PingPong.Application",
-        "projectPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj",
         "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-        "outputPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Application\\obj\\",
+        "outputPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj": {
-                "projectPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj"
+              "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj": {
+                "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj"
               }
             }
           }
@@ -51,6 +51,14 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
             }
           },
           "imports": [
@@ -73,14 +81,14 @@
         }
       }
     },
-    "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj": {
+    "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
         "projectName": "PingPong.Domain",
-        "projectPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
         "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-        "outputPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\obj\\",
+        "outputPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +136,14 @@
         }
       }
     },
-    "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj": {
+    "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj",
         "projectName": "PingPong.Infrastructure",
-        "projectPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\PingPong.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-        "outputPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj": {
-                "projectPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj"
+              "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj": {
+                "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Application\\PingPong.Application.csproj"
               }
             }
           }
@@ -169,6 +177,12 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
             },

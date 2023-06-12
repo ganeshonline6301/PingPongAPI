@@ -12,6 +12,7 @@ namespace PingPong.Application.Persistence
     {
         Task<List<PlayerModel>> GetAllPlayers();
         Task<PlayerModel> GetPlayer(int id);
+        Task<PlayerModel> GetPlayerScore(int id);
         Task<Unit> CreatePlayer(PlayerModel player);
     }
 }

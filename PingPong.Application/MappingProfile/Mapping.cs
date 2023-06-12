@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
 using PingPong.Application.DTOs;
+using PingPong.Application.DTOs.GroupDto;
+using PingPong.Application.DTOs.PlayerDto;
 using PingPong.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -13,8 +15,10 @@ namespace PingPong.Application.MappingProfile
     {
         public Mapping() 
         {
-            CreateMap<PlayerModel, PlayerDto>().ReverseMap();
-            CreateMap<TeamModel, TeamDto>().ReverseMap();
+            CreateMap<PlayerModel, CreatePlayerDto>().ReverseMap();
+            CreateMap<PlayerModel, GetPlayerDto>().ReverseMap();
+            CreateMap<PlayerModel, PlayerScoreDto>().ReverseMap();
+            CreateMap<GroupModel, GroupDto>().ReverseMap();
         }
     }
 }

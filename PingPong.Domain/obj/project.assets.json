@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
       "projectName": "PingPong.Domain",
-      "projectPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
+      "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\PingPong.Domain.csproj",
       "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-      "outputPath": "D:\\Ariqt\\Clean Architecture\\PingPong\\PingPong.Domain\\obj\\",
+      "outputPath": "C:\\Users\\robin\\OneDrive\\Desktop\\Repo\\Interns-BE\\Ganesh\\Clean Architecture\\PingPong\\PingPong.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,5 @@
 ﻿using MediatR;
-using PingPong.Application.DTOs;
+using PingPong.Application.DTOs.PlayerDto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +10,6 @@ namespace PingPong.Application.Features.Player.Requests.Commands
 {
     public class CreatePlayerCommand : IRequest<Unit>
     {
-        public PlayerDto PlayerDto { get; set; }
+        public CreatePlayerDto PlayerDto { get; set; }
     }
 }

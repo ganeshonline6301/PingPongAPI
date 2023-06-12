@@ -1,5 +1,5 @@
 ﻿using MediatR;
-using PingPong.Application.DTOs;
+using PingPong.Application.DTOs.PlayerDto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PingPong.Application.Features.Player.Requests.Queries
 {
-    public class GetPlayersListRequest : IRequest<List<PlayerDto>>
+    public class GetPlayersListRequest : IRequest<List<GetPlayerDto>>
     {
     }
 }

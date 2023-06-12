@@ -20,28 +20,44 @@ namespace PingPong.Infrastructure.Repositories
         }
         public async Task<Unit> CreatePlayer(PlayerModel player)
         {
-            await _db.Players.AddAsync(player);
-            _db.SaveChanges();
-            int playersCount = await _db.Players.CountAsync();
-            if (playersCount < 33)
+            var playersCount = await _db.Players.CountAsync();
+            if(playersCount < 33)
             {
-                player.IsParticipant = true;
+                await _db.Players.AddAsync(player);
+                await _db.SaveChangesAsync();
+                return Unit.Value;
             }
             else
             {
-                player.IsParticipant = false;
+                return Unit.Value;
             }
-            await _db.SaveChangesAsync();
+            
+            //_db.SaveChanges();
+            //int playersCount = await _db.Players.CountAsync();
+            //if (playersCount < 33)
+            //{
+            //    player.IsParticipant = true;
+            //}
+            //else
+            //{
+            //    player.IsParticipant = false;
+            //}
+            
 
-            return Unit.Value;
+            
         }
 
         public async Task<List<PlayerModel>> GetAllPlayers()
         {
-            return await _db.Players.Where(p => p.IsParticipant == true).ToListAsync();
+            return await _db.Players.ToListAsync();
         }
 
         public async Task<PlayerModel> GetPlayer(int id)
+        {
+            return await _db.Players.FirstOrDefaultAsync(p => p.Id == id);
+        }
+
+        public async Task<PlayerModel> GetPlayerScore(int id)
         {
             return await _db.Players.FirstOrDefaultAsync(p => p.Id == id);
         }

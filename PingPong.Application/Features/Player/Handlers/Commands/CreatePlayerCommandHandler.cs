@@ -24,7 +24,11 @@ namespace PingPong.Application.Features.Player.Handlers.Commands
         public async Task<Unit> Handle(CreatePlayerCommand request, CancellationToken cancellationToken)
         {
             var createPlayer = _mapper.Map<PlayerModel>(request.PlayerDto);
-            createPlayer = await _playerRepository.CreatePlayer(createPlayer);
+            if (createPlayer == null)
+            {
+                throw new ArgumentNullException(nameof(createPlayer), "Player object cannot be null.");
+            }
+            await _playerRepository.CreatePlayer(createPlayer);
             return Unit.Value;
             
         }

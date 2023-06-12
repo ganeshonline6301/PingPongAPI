@@ -15,5 +15,6 @@ namespace PingPong.Infrastructure
             
         }
         public DbSet<PlayerModel> Players { get; set; }
+        public DbSet<GroupModel> Groups { get; set; }
     }
 }

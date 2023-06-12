@@ -1,5 +1,5 @@
 ﻿using MediatR;
-using PingPong.Application.DTOs;
+using PingPong.Application.DTOs.PlayerDto;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -11,7 +11,7 @@ namespace PingPong.Infrastructure
 {
     public static class ServiceCollectionExtension 
     {
-        public static IServiceCollection AddInfrastruceServices(this IServiceCollection services, IConfiguration configuration) 
+        public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration) 
         {
             return services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultSQLConnection")));
         }

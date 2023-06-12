@@ -10,3 +10,15 @@ D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.D
 D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\refint\PingPong.Domain.dll
 D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.pdb
 D:\Ariqt\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\ref\PingPong.Domain.dll
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\bin\Debug\net6.0\PingPong.Domain.deps.json
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\bin\Debug\net6.0\PingPong.Domain.dll
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\bin\Debug\net6.0\PingPong.Domain.pdb
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.dll
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\refint\PingPong.Domain.dll
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\PingPong.Domain.pdb
+C:\Users\robin\OneDrive\Desktop\Repo\Interns-BE\Ganesh\Clean Architecture\PingPong\PingPong.Domain\obj\Debug\net6.0\ref\PingPong.Domain.dll

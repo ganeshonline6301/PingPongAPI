@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using MediatR;
-using PingPong.Application.DTOs;
+using PingPong.Application.DTOs.PlayerDto;
 using PingPong.Application.Features.Player.Requests.Queries;
 using PingPong.Application.Persistence;
 using PingPong.Domain.Entities;
@@ -24,7 +24,7 @@ namespace PingPong.Application.Features.Player.Handlers.Queries
         }
         public async Task<PlayerScoreDto> Handle(GetPlayerScoreRequest request, CancellationToken cancellationToken)
         {
-            var getPlayerScore = await _playerRepository.GetPlayer(request.Id);
+            var getPlayerScore = await _playerRepository.GetPlayerScore(request.Id);
             return _mapper.Map<PlayerScoreDto>(getPlayerScore);
         }
     }
